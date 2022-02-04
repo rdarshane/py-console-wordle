@@ -11,7 +11,7 @@ class helper:
         print("\n1. if your guess of whole word is right")
         print(f"2. if letters are in right {Fore.GREEN}p{Fore.RESET}lace ")
         print(f"3. if letters are {Fore.YELLOW}rp{Fore.RESET}esent (read as present), but in wrong place")
-        print(f"4. if letters are not {Fore.RED}ab{Fore.RESET} (read as present) in the word")
+        print(f"4. if letters are not {Fore.RED}ab{Fore.RESET}sent (read as present) in the word")
         print("\nUses oxford dictionary API for word lookup. Get your free credentials, link given below. Replace in dictionaryService.py ")
         print("https://developer.oxforddictionaries.com/")
 
